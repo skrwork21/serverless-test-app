@@ -1,4 +1,5 @@
 service: hello
+app: serverless-test-app
 plugins:
   - serverless-offline
   - serverless-python-requirements
