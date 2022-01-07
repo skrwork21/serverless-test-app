@@ -14,7 +14,7 @@ custom:
 
 provider:
   name: aws
-  runtime: python3.7
+  runtime: python3.7.7
   region: us-east-1
   memorySize: 256
   versionFunctions: false
